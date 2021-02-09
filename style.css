@@ -3,3 +3,12 @@ body {
     margin: 100px;
     background-color: red;
 }
+
+div {
+  width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
