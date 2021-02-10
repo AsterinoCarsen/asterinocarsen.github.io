@@ -1,8 +1,16 @@
-div {
-  width: 70px;
-  height: 300px;
-  border: 1px solid #c3c3c3;
-  display: flex;
-  flex-wrap: wrap;
-  align-content: center;
+body {
+	border: 1px solid white;
+	background-color: #242424;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+p {
+	color: white;
+	text-align: center;
+	border-bottom: 1px solid white;
 }
