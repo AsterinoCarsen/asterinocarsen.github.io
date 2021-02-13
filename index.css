@@ -51,15 +51,19 @@ h3 {
 }
 
 .HeaderSub1 {
-	animation: fadeIn 5s;
+	animation: fadeIn 2s;
 }
 
 @keyframes fadeIn {
 	from {
 		opacity: 0%;
+		position: relative;
+		top: 100px;
 	}
 
 	to {
 		opacity: 100%;
+		position: relative;
+		top: 0px;
 	}
 }
